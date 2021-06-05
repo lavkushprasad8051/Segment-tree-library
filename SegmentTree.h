@@ -1,4 +1,4 @@
-///author : kartik8800
+//author:Lav Kush Prasad
 #ifndef SEGMENTTREE_H
 #define SEGMENTTREE_H
 #define left(i) (2*i + 1)
